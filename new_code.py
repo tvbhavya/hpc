@@ -669,6 +669,3 @@ if st.session_state.page == "upload":
                 handle_lcatterton()
         else:
             st.write("No matching domain found in the email ID.")
-
-
-
